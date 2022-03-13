@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jmora11/devsoft-009-frontend-hooks-react/static/css/main.6fa4e778.css",
+    "main.js": "/jmora11/devsoft-009-frontend-hooks-react/static/js/main.d596bca9.js",
+    "index.html": "/jmora11/devsoft-009-frontend-hooks-react/index.html",
+    "main.6fa4e778.css.map": "/jmora11/devsoft-009-frontend-hooks-react/static/css/main.6fa4e778.css.map",
+    "main.d596bca9.js.map": "/jmora11/devsoft-009-frontend-hooks-react/static/js/main.d596bca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa4e778.css",
+    "static/js/main.d596bca9.js"
+  ]
+}
