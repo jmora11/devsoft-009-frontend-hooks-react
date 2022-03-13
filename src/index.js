@@ -2,7 +2,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import { CallBackHook } from './components/06-memos/CallBackHook';
-import { Padre } from './components/07-tarea-memo/Padre';
+// import { Padre } from './components/07-tarea-memo/Padre';
+import { TodoApp } from './components/08-useReducer/TodoApp';
 // import { MemoHook } from './components/06-memos/MemoHook';
 // import { ExampleUseRef } from './components/04-useRef/ExampleUseRef';
 // import { Layout } from './components/05-useLayoutEffect/Layout';
@@ -16,6 +17,6 @@ import { Padre } from './components/07-tarea-memo/Padre';
 // import { SimpleForm } from './components/02-useEffect/SimpleForm';
 
 ReactDOM.render(
-    <Padre />,
+    <TodoApp />,
     document.getElementById('root')
 );
