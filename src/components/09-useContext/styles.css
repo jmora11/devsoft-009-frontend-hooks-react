@@ -1,0 +1,11 @@
+.nav-item {
+    color: gray;
+}
+
+.activated {
+    color: white !important;
+}
+
+.nav-item:hover {
+    color: rgb(10, 241, 48);
+}
